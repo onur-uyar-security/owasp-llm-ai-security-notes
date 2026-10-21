@@ -2,7 +2,7 @@
 
 The GRC / audit view of AI security — how organisational governance frames the technical
 controls in the rest of these notes. (See also the companion **`grc-toolkit`** repo for
-ISO 27001 / 42001 / NIS2 templates — link it to your own repo URL once published.)
+ISO 27001 / 42001 / NIS2 templates)
 
 ## ISO/IEC 42001:2023 — AI Management System (AIMS)
 The first management-system standard for **artificial intelligence**, structured like ISO 27001
